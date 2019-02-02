@@ -1,0 +1,349 @@
+{
+  "settings": {
+    "name": "Amrita",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.1",
+    "siteFonts": [],
+    "uniqCompNum": 20,
+    "versionPublish": "4.9.1",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/36479872-2069964273241474-2798973746637963264-o-128x85.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/36479872-2069964273241474-2798973746637963264-o-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/PGI1ZDgDKAw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/PGI1ZDgDKAw",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Amrita Beauty Parlour",
+          "text": "<b>Create your style with us.</b><b><br></b>Serving beautiful ladies.Since 1993<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-watch mbr-iconfont mbr-iconfont-btn\"></span>Book Appointment</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#content4-j\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Services Offered &nbsp; &nbsp;</a>  ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-2",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#ffffff",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/anus-britneys-beauty-parlour-training-institute-ongole-beauty-parlours-eg59z-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anus-britneys-beauty-parlour-training-institute-ongole-beauty-parlours-eg59z-1280x853-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/srija-ladies-beauty-parlour-kumbakonam-ho-kumbakonam-ladies-beauty-parlours-x85yx-1280x852.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/srija-ladies-beauty-parlour-kumbakonam-ho-kumbakonam-ladies-beauty-parlours-x85yx-1280x852-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4255-4-main-1-600x400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4255-4-main-1-600x400-600x400.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/facial-1434x986.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/facial-1434x986-800x550.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/money-care-00k1-1600x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/money-care-00k1-1600x800-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/c700x420-700x420.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c700x420-700x420-700x420.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/apollo-583x358.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apollo-583x358-583x358.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/9a319d98f0a71d0c3379efdfc7cbe6e1-800x592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9a319d98f0a71d0c3379efdfc7cbe6e1-800x592-800x592.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-f"
+        },
+        {
+          "_params": {
+            "showTitles": false,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1133.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "&nbsp;",
+          "caption1": "Bridal Makeup<br><br>Party Makeup<br><br>Hair do<br><br>Anti-aging facabffdials<br><br>Perming<br>",
+          "title2": "&nbsp;",
+          "caption2": "Waxing<br><br>Pedicure<br><br>Manicure<br><br>Whitening &amp; Advanced Facials<br>",
+          "title3": "&nbsp;&nbsp;",
+          "caption3": "Haircuts<br><br>Coloring<br><br>Smoothening<br><br>Hair treatment<br><br>",
+          "title4": "Unlimited Websites",
+          "caption4": "<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-j",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What Our Fantastic Customers Say",
+          "items": [
+            {
+              "authorName": "Rekha Bhavana",
+              "authorBio": "Actress",
+              "text": "<i>\"I approached Amritha Parlour for my wedding bridal makeup and that made me more beautiful on my wedding. Thanks to the team for a great service. Friendly service with reasonable price.\"</i>"
+            },
+            {
+              "authorName": "Hepsi Amala Paul",
+              "authorBio": "International model",
+              "text": "<p><i>\"I am a model. I should look good and beautiful and should maintain it for my profession. Thanks Amritha Parlour for being a great support.\"&nbsp;</i></p>"
+            },
+            {
+              "authorName": "Kamalini",
+              "authorBio": "College Student",
+              "text": "<i>\"I had a feeling that I look dark. I got to know about Amritha Parlour through my friend. I am really happy that my skin tone is better and I look fair after regular facial\"</i>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-d",
+          "testimonial": [
+            {
+              "authorName": "Rekha Bhavana",
+              "authorBio": "Actress",
+              "text": "<i>\"I approached Amritha Parlour for my wedding bridal makeup and that made me more beautiful on my wedding. Thanks to the team for a great service. Friendly service with reasonable price.\"</i>"
+            },
+            {
+              "authorName": "Hepsi Amala Paul",
+              "authorBio": "International model",
+              "text": "<p><i>\"I am a model. I should look good and beautiful and should maintain it for my profession. Thanks Amritha Parlour for being a great support.\"&nbsp;</i></p>"
+            },
+            {
+              "authorName": "Kamalini",
+              "authorBio": "College Student",
+              "text": "<i>\"I had a feeling that I look dark. I got to know about Amritha Parlour through my friend. I am really happy that my skin tone is better and I look fair after regular facial\"</i>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f2f2f2",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Reach out for appointments&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Send Appointment Request</a>",
+          "form": {
+            "action": "officialselvam@gmail.com",
+            "alerts": {
+              "success": "Thanks for reaching us. We will contact you shortly."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Enter your preferred appointment date and time. Feel free to type your additional requests."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/swapna.prem.1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.facebook.com/swapna.prem.1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.facebook.com/swapna.prem.1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-7"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.644479078579!2d80.20396831495405!3d12.994576217889371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52675c268a1469%3A0xf19a3d5a08805d!2sAmirtha+Beauty+Parlour!5e0!3m2!1sen!2sin!4v1549135757812\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>18, 4th Main Rd, Officers Colony, Adambakkam, Chennai, Tamil Nadu 600088<br><br>\n<strong>Contacts</strong><br>\nEmail: support@amritaparlour.com<br>\nPhone: +(91) 9840016150<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "&nbsp;",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-4"
+        }
+      ]
+    }
+  }
+}

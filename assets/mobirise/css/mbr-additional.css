@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+#header4-2 H1 {
+  color: #000000;
+  text-align: left;
+}
+#header4-2 P {
+  font-size: 25px;
+}
+#content4-j P {
+  font-family: 'Lora', serif;
+}
