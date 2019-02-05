@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 20,
+    "uniqCompNum": 11,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/36479872-2069964273241474-2798973746637963264-o-128x85.png",
@@ -37,7 +37,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/36479872-2069964273241474-2798973746637963264-o-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/28516755-2011071052464130-8192921838847870223-o-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -79,60 +79,32 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/anus-britneys-beauty-parlour-training-institute-ongole-beauty-parlours-eg59z-1280x853.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/anus-britneys-beauty-parlour-training-institute-ongole-beauty-parlours-eg59z-1280x853-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28827110-2011072075797361-2693741744402653993-o-2-1280x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28827110-2011072075797361-2693741744402653993-o-2-1280x1920-800x1200.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/srija-ladies-beauty-parlour-kumbakonam-ho-kumbakonam-ladies-beauty-parlours-x85yx-1280x852.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/srija-ladies-beauty-parlour-kumbakonam-ho-kumbakonam-ladies-beauty-parlours-x85yx-1280x852-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20190203-wa0006-1-720x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190203-wa0006-1-720x1280-575x863.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/4255-4-main-1-600x400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4255-4-main-1-600x400-600x400.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/facial-1434x986.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/facial-1434x986-800x550.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/money-care-00k1-1600x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/money-care-00k1-1600x800-800x400.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/c700x420-700x420.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/c700x420-700x420-700x420.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/apollo-583x358.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/apollo-583x358-583x358.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/9a319d98f0a71d0c3379efdfc7cbe6e1-800x592.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9a319d98f0a71d0c3379efdfc7cbe6e1-800x592-800x592.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20190203-wa0001-1-853x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190203-wa0001-1-853x1280-682x1023.jpg",
                 "alt": "",
                 "title": "",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190203-wa0002-1-720x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190203-wa0002-1-720x1280-575x863.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
               }
             ]
           },
@@ -205,19 +177,19 @@
           "header": "What Our Fantastic Customers Say",
           "items": [
             {
-              "authorName": "Rekha Bhavana",
-              "authorBio": "Actress",
-              "text": "<i>\"I approached Amritha Parlour for my wedding bridal makeup and that made me more beautiful on my wedding. Thanks to the team for a great service. Friendly service with reasonable price.\"</i>"
-            },
-            {
-              "authorName": "Hepsi Amala Paul",
-              "authorBio": "International model",
-              "text": "<p><i>\"I am a model. I should look good and beautiful and should maintain it for my profession. Thanks Amritha Parlour for being a great support.\"&nbsp;</i></p>"
-            },
-            {
-              "authorName": "Kamalini",
+              "authorName": "Anu",
               "authorBio": "College Student",
-              "text": "<i>\"I had a feeling that I look dark. I got to know about Amritha Parlour through my friend. I am really happy that my skin tone is better and I look fair after regular facial\"</i>"
+              "text": "<i>\"I approached Amrita Parlour for my wedding bridal makeup and that made me more beautiful on my wedding. Thanks to the team for a great service. Friendly service with reasonable price.\"</i>"
+            },
+            {
+              "authorName": "Sonali",
+              "authorBio": "Model",
+              "text": "<p><i>\"I am a model. I should look good and beautiful and should maintain it for my profession. Thanks Amrita Parlour for being a great support.\"&nbsp;</i></p>"
+            },
+            {
+              "authorName": "Tina",
+              "authorBio": "Professional",
+              "text": "<i>\"I had a feeling that I look dark. I got to know about Amrita Parlour through my friend. I am really happy that my skin tone is better and I look fair after regular facial\"</i>"
             }
           ],
           "alias": "purity/components",
@@ -228,19 +200,19 @@
           "_anchor": "testimonials1-d",
           "testimonial": [
             {
-              "authorName": "Rekha Bhavana",
-              "authorBio": "Actress",
-              "text": "<i>\"I approached Amritha Parlour for my wedding bridal makeup and that made me more beautiful on my wedding. Thanks to the team for a great service. Friendly service with reasonable price.\"</i>"
-            },
-            {
-              "authorName": "Hepsi Amala Paul",
-              "authorBio": "International model",
-              "text": "<p><i>\"I am a model. I should look good and beautiful and should maintain it for my profession. Thanks Amritha Parlour for being a great support.\"&nbsp;</i></p>"
-            },
-            {
-              "authorName": "Kamalini",
+              "authorName": "Shruthi",
               "authorBio": "College Student",
-              "text": "<i>\"I had a feeling that I look dark. I got to know about Amritha Parlour through my friend. I am really happy that my skin tone is better and I look fair after regular facial\"</i>"
+              "text": "<i>\"I approached Amrita Parlour for my wedding bridal makeup and that made me more beautiful on my wedding. Thanks to the team for a great service. Friendly service with reasonable price.\"</i>"
+            },
+            {
+              "authorName": "Sana",
+              "authorBio": "Model",
+              "text": "<p><i>\"I am a model. I should look good and beautiful and should maintain it for my profession. Thanks Amrita Parlour for being a great support.\"&nbsp;</i></p>"
+            },
+            {
+              "authorName": "Shree",
+              "authorBio": "Professional",
+              "text": "<i>\"I had a feeling that I look dark. I got to know about Amrita Parlour through my friend. I am really happy that my skin tone is better and I look fair after regular facial\"</i>"
             }
           ]
         },
@@ -308,7 +280,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Follow Us",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/swapna.prem.1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.facebook.com/swapna.prem.1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.facebook.com/swapna.prem.1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/amrithabeautysalon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>       ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -334,7 +306,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Address</strong><br>18, 4th Main Rd, Officers Colony, Adambakkam, Chennai, Tamil Nadu 600088<br><br>\n<strong>Contacts</strong><br>\nEmail: support@amritaparlour.com<br>\nPhone: +(91) 9840016150<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>18, 4th Main Rd, Officers Colony, Adambakkam, Chennai, Tamil Nadu 600088<br><br>\n<strong>Contacts</strong><br>\nEmail: support@amritaparlour.com<br>\nPhone: 044-42751199<br>",
           "text2": "&nbsp;",
           "alias": "purity/components",
           "_tags": [
